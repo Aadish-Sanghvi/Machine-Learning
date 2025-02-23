@@ -24,7 +24,7 @@ Welcome to my Machine Learning Practice Repository, where I document my journey 
 
 💡 How to Use? 
 
-1️⃣ Clone the repository: git clone https://github.com/aadish07/Machine-Learning.git
+1️⃣ Clone the repository: https://github.com/Aadish-Sanghvi/Machine-Learning.git
 
 2️⃣ Navigate to the project folder and open the Python scripts in VS Code or the Jupyter Notebooks as needed.
 
@@ -42,7 +42,7 @@ Welcome to my Machine Learning Practice Repository, where I document my journey 
 
 ✅ More resources (notes) coming soon!
 
-🔗 Connect with Me
+🔗 Connect with Me https://github.com/Aadish-Sanghvi/Machine-Learning.git
 
 📌 GitHub: aadish07
 
