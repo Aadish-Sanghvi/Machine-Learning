@@ -7,7 +7,8 @@ Welcome to my Machine Learning Practice Repository, where I document my journey 
 ✅ Iris Dataset (Classification) – Classify flowers into different species based on their attributes.
 ✅ Custom CSV Files – Additional datasets for practicing different ML techniques.
 
-🚀 What's Inside? 🔹 Python scripts (.py files) with machine learning models built in VS Code.
+🚀 What's Inside? 
+🔹 Python scripts (.py files) with machine learning models built in VS Code.
 🔹 Two Jupyter Notebook (.ipynb) files for additional exploration.
 🔹 Preprocessing, model training, and evaluation for better understanding.
 🔹 Automated EDA Folder 📊 – Perform quick dataset analysis using Python.
