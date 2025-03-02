@@ -1,3 +1,7 @@
+Notes - 
+
+[ML Algo Notes.pdf](https://github.com/user-attachments/files/19042224/ML.Algo.Notes.pdf)
+
 📌 Machine Learning Practice Projects
 
 Welcome to my Machine Learning Practice Repository, where I document my journey of learning ML concepts through hands-on projects. This repository includes classification and regression models, custom datasets, and Automated EDA techniques to explore datasets efficiently. It is designed for beginners and intermediates who want to practice ML with well-structured code and explanations.
