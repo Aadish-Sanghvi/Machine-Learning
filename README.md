@@ -50,7 +50,7 @@ Welcome to my Machine Learning Practice Repository, where I document my journey 
 
 🔗 Connect with Me
 
-📌 GitHub: aadish07
+📌 GitHub: Aadish-Sanghvi
 
 📌 LinkedIn: https://www.linkedin.com/in/aadish-sanghvi-9736811b7/
 
